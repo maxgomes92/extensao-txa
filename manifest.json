@@ -1,0 +1,12 @@
+  {
+    "name": "Extensao do Troxao",
+    "version": "1.0",
+    "description": "Build an Extension!",
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["main.js"]
+      }
+    ],
+    "manifest_version": 2
+  }
