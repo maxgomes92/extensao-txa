@@ -1,16 +1,9 @@
-/* html {
-  background: white;
-} */
 body {
   --main-color: #353C51;
   --text-color: white;
   width: 300px;
-  /* height: 320px; */
   background-color: var(--main-color);
   color: var(--text-color);
-  /* display: flex; */
-  /* align-items: center; */
-  /* flex-direction: column; */
   padding: 20px;
   border-radius: 5px;
   margin: 0;
